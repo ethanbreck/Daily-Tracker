@@ -1,3 +1,14 @@
+# personal exceptions
+data/shower.json
+data/school.json
+data/school.json
+data/bathroom.json
+data/bus.json
+data/eagle.json
+data/homework.json
+data/reddit.json
+data/work.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
