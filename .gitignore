@@ -8,6 +8,8 @@ data/eagle.json
 data/homework.json
 data/reddit.json
 data/work.json
+data/master_schedule.json
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
